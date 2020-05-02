@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=chess-timer
+*Date=03:15:49
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;10k;0402 [SMD];51.994;-17.488;90;Top;R7
+2;10k;0402 [SMD];40.7051;-28.7769;90;Top;R5
+3;;[SMD];53.6789;-13.2477;90;Top;S4
+4;;THT;77.3289;-16.2277;90;Bottom;S6
+5;;[SMD];25.6989;-14.1677;0;Top;S1
+6;220;1206 [SMD];2.67889;-14.9577;0;Top;R2
+7;10k;0402 [SMD];35.0607;-34.4214;90;Top;R4
+8;10k;0402 [SMD];16.3689;-4.14773;90;Top;R3
+9;;[SMD];66.3789;-13.2477;90;Top;S5
+10;;[SMD];5.37889;-4.00773;0;Top;S2
+11;;[SMD];40.9789;-13.2477;90;Top;S3
+12;;3386u;83.0368;-8.87566;0;Bottom;R1
+13;;;40.7529;-37.6018;0;Bottom;LCD1
+14;10k;0402 [SMD];46.3495;-23.1325;90;Top;R6
+15;9V;;20.1789;-2.25773;90;Bottom;VCC1
+16;;;20.1475;-51.7877;0;Bottom;Part1
