@@ -13,11 +13,11 @@ The project was develop for educational purpose.
 * Bektur Rahmatali uulu
 
 ## Development
-![Drawing](Images/drawings.png) Used drawings with all dimensions.
+![Drawing](Images/drawings.png) _Used drawings with all dimensions._
 
-![Schematic is here](Images/chess-timer_circuit.png) Circuit schema from Fritzing.
+![Schematic is here](Images/chess-timer_circuit.png) _Circuit schema from Fritzing._
 
-![PCB](Images/chess-timer_pcb.png) PCP from Fritzing.
+![PCB](Images/chess-timer_pcb.png) _PCP from Fritzing_.
 
 Demonstration video is [here](https://youtu.be/TPOspKETKMQ).
 
