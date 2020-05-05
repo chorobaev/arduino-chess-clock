@@ -1,10 +1,10 @@
 ## Project description
 Main goal of this project is to demonstrate usage of Arduino with 3D printing 
 to make real world things and of course make chess players happy.
-The project was develop for educational purpose at [International Alatoo University][1].
+The project was develop for educational purpose.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version: v1.0.0](https://img.shields.io/badge/Developed%20at-IAU-orange)](https://github.com/chorobaev)
+[![Version: v1.0.0](https://img.shields.io/badge/Developed%20at-IAU-orange)][1]
 
 ## Team (authors)
 * Nurbol Chorobaev
