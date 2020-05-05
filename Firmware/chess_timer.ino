@@ -1,3 +1,4 @@
+/* Copyright (c) Nurbol Chorobaev 1.05.2020 */
 #include <LiquidCrystal.h>
 
 // Pin naming
