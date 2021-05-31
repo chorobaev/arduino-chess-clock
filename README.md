@@ -21,6 +21,8 @@ The project was develop for educational purpose.
 
 Demonstration video is [here](https://youtu.be/TPOspKETKMQ).
 
+Tinkercad project is [here](https://www.tinkercad.com/things/bRu6NNPJVqT-chess-timer-circuit).
+
 Also checkout "[Chess timer][2]" project on this repository to see the
 issues into which the project was divided.  
 
